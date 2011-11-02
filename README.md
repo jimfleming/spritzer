@@ -1,3 +1,6 @@
+Spritzer
+========
+
 Simply connects to the Twitter Streaming API via OAuth and stores (in redis) link occurences
 
 * Authenticate at this url: `/auth/twitter` (should redirect automatically to `/api/firehose`)
